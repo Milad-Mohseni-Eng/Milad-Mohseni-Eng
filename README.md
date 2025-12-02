@@ -1,4 +1,4 @@
-# Milad Mohseni — Embedded, Smart Systems & Hardware Desinger
+# Milad Mohseni — Embedded, Smart Systems & Hardware Desing
 Embedded systems & hardware acceleration developer | Python & C/C++ | VHDL & Digital Design
 
 🔭 Current focus: Smart Systems Engineering, embedded firmware, USB/Serial interfaces  
