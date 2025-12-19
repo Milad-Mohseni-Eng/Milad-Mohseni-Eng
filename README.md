@@ -8,4 +8,4 @@ Embedded systems & hardware acceleration developer | Python & C/C++ | VHDL & Dig
 - *Associate Final Project* — 6-digit electronic lock (ATmega16L)  
 - *Bachelor Final Project* — USB-CDC to RS-232 converter (AT90USB)  
 - *Weather App* — Tkinter OpenWeatherMap GUI  
-- *ESP32-PIR-Motion-Alert
+- *ESP32*-PIR-Motion-Alert
